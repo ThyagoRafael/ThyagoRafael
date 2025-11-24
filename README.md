@@ -7,7 +7,7 @@
 
 <ul>
   <li>🔭 Atualmente estou aprofundando meu conhecimento em <b>Typescript</b></li>
-  <li>🌱 Também estou estudando <b>DevOps com Docker</b></li>
+  <li>🌱 Também estou estudando <b>Docker</b></li>
   <li>🧑‍💻 Criando projetos para praticar e solidificar meu conhecimento</li>
   <li>👾 Cursando <b>Engenharia de Software</b></li>
 </ul>
